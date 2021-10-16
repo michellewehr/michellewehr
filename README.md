@@ -1,3 +1,6 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/85959444/137572061-7dd1beba-44b9-4bc5-8a0d-c08d466d5f06.gif)
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently enrolled in a full stack development coding bootcamp. 
