@@ -1,3 +1,4 @@
+![](https://github.com/michellwehr/banner.png)
 
 # Hello, I'm Michelle, a passionate full stack developer. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
