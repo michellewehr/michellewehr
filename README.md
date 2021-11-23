@@ -5,6 +5,7 @@
 
 
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: I once won a hoola hooping contest. 
 
 Tools and Technologies: 
