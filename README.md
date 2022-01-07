@@ -2,6 +2,8 @@
 
 # Hello, I'm Michelle, a passionate full stack developer. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+[Check out my portfolio!](https://michellewehr.github.io/react-portfolio-2/)
+
 📫 How to reach me: Email: <michelle_wehr@icloud.com>
 
 😄 Pronouns: She/Her
